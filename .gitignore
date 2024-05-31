@@ -1,4 +1,4 @@
 /.venv/
-brain_games/__pycache__/
- brain_games/scripts/__pycache__/
+/brain_games/__pycache__/*.cpython-38.pyc
+/brain_games/scripts/__pycache__/*.cpython-38.pyc
 /dist/
