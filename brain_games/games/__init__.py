@@ -1,1 +1,1 @@
-from . import calc, even, gcd
+from . import calc, even, gcd, progression
