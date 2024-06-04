@@ -1,1 +1,1 @@
-from . import calc, even, gcd, progression
+from . import calc, even, gcd, progression, prime
