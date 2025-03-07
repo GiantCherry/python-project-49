@@ -1,5 +1,7 @@
+import brain_games.cly
+
 def main():
-    print('Welcome to the Brain Games!')
+    brain_games.cly.welcome_user()
 
 
 if __name__ == "__main__":

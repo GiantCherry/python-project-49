@@ -8,4 +8,4 @@ build:
 	uv build
 
 package-install:
-	uv tool install --force dist/*.whl
+	uv tool install --force --python='3.13' dist/*.whl
