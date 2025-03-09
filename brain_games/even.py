@@ -1,8 +1,11 @@
-import prompt
 from random import randint
+
+import prompt
+
 
 def is_even(number):
     return number % 2 == 0
+
 
 def even_game():
     print('Welcome to the Brain Games!')
