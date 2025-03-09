@@ -3,3 +3,4 @@
 
 [![asciicast](https://asciinema.org/a/707116.svg)](https://asciinema.org/a/707116)
 [![asciicast](https://asciinema.org/a/707125.svg)](https://asciinema.org/a/707125)
+[![asciicast](https://asciinema.org/a/707131.svg)](https://asciinema.org/a/707131)
